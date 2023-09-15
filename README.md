@@ -1,4 +1,4 @@
-# Sri Lankan Nighttime Detection App
+# Sri Lankan Nighttime Object Detection App
 
 ## Overview
 
