@@ -20,5 +20,5 @@ To get started with this project, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/sri-lankan-nighttime-detection-app.git
-   cd sri-lankan-nighttime-detection-app
+   git clone https://github.com/SafrullahMohomed/NightDrivingAssistance.git
+   cd NightDrivingAssistance
