@@ -1,4 +1,4 @@
-# Sri Lankan Nighttime Object Detection App
+# Nocturne: Real Time Driving Assistance at Night for Sri Lankan Context
 
 ## Overview
 
